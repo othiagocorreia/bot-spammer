@@ -10,25 +10,29 @@ Isn't complete yet, but I have liked so much.
 
 # Sumary 
 
-* How to Setup
-* The modules
+* [How to Setup](https://github.com/thiagodk0/bot-spammer#how-to-setup)
+* [The Modules]()
 
 # How to Setup 
 
 * First, you will need have Python installed on your machine. You can download [here](https://www.python.org/downloads/)
 
-* To check if you alredy have Python installed on your machine, you can open you can open your **Terminal** and run one of these commands:
+* Then, you can clone or download the repository 
 
-### **In Windows**
+        git clone https://github.com/thiagodk0/bot-spammer
 
-        python version
+* After that, you need to install the modules that are used in program. You can install PyAutoGUI [here](https://pyautogui.readthedocs.io/en/latest/install.html#:~:text=To%20install%20PyAutoGUI%2C%20install%20the%20pyautoguipackage%20from%20PyPI,2019%2C%20the%20Pillow%20module%20doesn%E2%80%99t%20support%20Python%203.8.), and time[here](https://pypi.org/project/python-time/)
 
-### **In Linux**
-  
-        python --version
+# The Modules
 
-### **In MacOS**
-        python -version
+#### PyAutoGUI
+*PyAutoGUI lets your Python scripts control the mouse and keyboard to automate interactions with other applications.*
+
+#### Time
+*Time module in Python provides various time-related functions.*
+
+
+
   
 
 
