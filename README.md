@@ -11,7 +11,7 @@ Isn't complete yet, but I have liked so much.
 # Sumary 
 
 * [How to Setup](https://github.com/thiagodk0/bot-spammer#how-to-setup)
-* [The Modules]()
+* [The Modules](https://github.com/thiagodk0/bot-spammer#the-modules)
 
 # How to Setup 
 
@@ -21,7 +21,7 @@ Isn't complete yet, but I have liked so much.
 
         git clone https://github.com/thiagodk0/bot-spammer
 
-* After that, you need to install the modules that are used in program. You can install PyAutoGUI [here](https://pyautogui.readthedocs.io/en/latest/install.html#:~:text=To%20install%20PyAutoGUI%2C%20install%20the%20pyautoguipackage%20from%20PyPI,2019%2C%20the%20Pillow%20module%20doesn%E2%80%99t%20support%20Python%203.8.), and time[here](https://pypi.org/project/python-time/)
+* After that, you need to install the modules that are used in program. You can install PyAutoGUI [here](https://pyautogui.readthedocs.io/en/latest/install.html#:~:text=To%20install%20PyAutoGUI%2C%20install%20the%20pyautoguipackage%20from%20PyPI,2019%2C%20the%20Pillow%20module%20doesn%E2%80%99t%20support%20Python%203.8.), and time [here](https://pypi.org/project/python-time/)
 
 # The Modules
 
